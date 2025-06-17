@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121210654353",
+    "project_id": "urun-app-d5f27",
+    "storage_bucket": "urun-app-d5f27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121210654353:android:e8723e3ef5177f0062b930",
+        "android_client_info": {
+          "package_name": "com.example.urun_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBricr4sjfWZA7-3fi4cKFRFiB4NFzxb6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
